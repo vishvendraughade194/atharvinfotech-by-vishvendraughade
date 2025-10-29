@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "cctv-installation",
+    "name": "CCTV Installation",
+    "short": "Surveillance setup for homes and offices.",
+    "features": [
+      "Site Survey",
+      "Camera Placement",
+      "DVR/NVR Configuration",
+      "Mobile Viewing"
+    ],
+    "icon": "🔒"
+  },
+  {
+    "slug": "networking-setup",
+    "name": "Networking Setup",
+    "short": "Reliable LAN/WAN and Wi‑Fi deployments.",
+    "features": [
+      "Structured Cabling",
+      "Switch/Router Setup",
+      "VLANs",
+      "Network Security"
+    ],
+    "icon": "🌐"
+  },
+  {
+    "slug": "biometric-attendance",
+    "name": "Biometric Attendance Machine",
+    "short": "Attendance devices with software integration.",
+    "features": [
+      "Device Installation",
+      "User Enrollment",
+      "Timesheet Integration"
+    ],
+    "icon": "🖐️"
+  },
+  {
+    "slug": "server-installation",
+    "name": "Server Installation Support",
+    "short": "On-prem server setup and hardening.",
+    "features": [
+      "Rack & Power",
+      "OS Install",
+      "RAID",
+      "Backups"
+    ],
+    "icon": "🖥️"
+  },
+  {
+    "slug": "wifi-zone",
+    "name": "Wifi Zone",
+    "short": "Campus and multi-AP Wi‑Fi planning and rollout.",
+    "features": [
+      "Heatmap Planning",
+      "AP Mounting",
+      "Controller Setup",
+      "Captive Portal"
+    ],
+    "icon": "📶"
+  },
+  {
+    "slug": "software-installation",
+    "name": "Software Installation Support",
+    "short": "OS and application deployment at scale.",
+    "features": [
+      "OS Imaging",
+      "Driver Packages",
+      "Patch Management"
+    ],
+    "icon": "💿"
+  },
+  {
+    "slug": "computer-laptop-repair",
+    "name": "Computer-Laptop Repairing",
+    "short": "Diagnostics, parts replacement, and tuning.",
+    "features": [
+      "SSD/RAM Upgrades",
+      "Thermal Service",
+      "OS Restore"
+    ],
+    "icon": "💻"
+  },
+  {
+    "slug": "printer-projector-repair",
+    "name": "Printer-Projector Repairing",
+    "short": "Maintenance and repairs for printers and projectors.",
+    "features": [
+      "Lamp Replacement",
+      "Optics Clean",
+      "Calibration"
+    ],
+    "icon": "🛠️"
+  },
+  {
+    "slug": "intercom-system",
+    "name": "Intercom System",
+    "short": "Audio/video intercom installation and support.",
+    "features": [
+      "Wiring",
+      "Panel Setup",
+      "Integration"
+    ],
+    "icon": "📞"
+  },
+  {
+    "slug": "interactive-smart-panel",
+    "name": "Interactive Smart Panel",
+    "short": "Installation, calibration, and training.",
+    "features": [
+      "Mounting",
+      "Firmware",
+      "User Training"
+    ],
+    "icon": "🖊️"
+  },
+  {
+    "slug": "new-refurbished-desktop-laptop",
+    "name": "New-Refurbished Desktop-Laptop",
+    "short": "Sales and setup of new/refurbished systems.",
+    "features": [
+      "Spec Consultation",
+      "OS Setup",
+      "Warranty"
+    ],
+    "icon": "🧩"
+  },
+  {
+    "slug": "computer-peripherals",
+    "name": "Computer And Peripherals",
+    "short": "Keyboards, mice, UPS, and accessories.",
+    "features": [
+      "Recommendation",
+      "Supply",
+      "Warranty Support"
+    ],
+    "icon": "🧰"
+  }
+]
